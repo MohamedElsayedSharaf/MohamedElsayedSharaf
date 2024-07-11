@@ -10,8 +10,6 @@
  
  - <i>with Javascript, Typescript, React and 29 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
-
  - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
  - I do frontend and a bit of everything :heart:
