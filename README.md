@@ -10,7 +10,7 @@
  
  - <i>with Javascript, Typescript, React and 29 others.</i>
    
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - I have a strong passion for football, reading, drawing, and programming, which allow me to balance creativity, critical thinking, and problem-solving in both my personal and professional pursuits.
  
  - I do frontend and a bit of everything :heart:
  
